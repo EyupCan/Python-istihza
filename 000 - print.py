@@ -1,3 +1,15 @@
+#####################################
+#                                   #
+#                                   #
+#                                   #
+#      Eyüp Can KILINÇDEMİR         #
+#    eyupcankilincdemir@gmail.com   #
+#    	ceksoft.wordpress.com       #
+#     							    #
+#                                   #
+#                                   #
+#####################################
+
 """""""""""""""""""""""""""
 date = "23.06.2016"
 day = "perşembe"
