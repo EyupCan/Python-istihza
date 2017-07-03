@@ -1,3 +1,15 @@
+#####################################
+#                                   #
+#                                   #
+#                                   #
+#      Eyüp Can KILINÇDEMİR         #
+#    eyupcankilincdemir@gmail.com   #
+#    	ceksoft.wordpress.com       #
+#     							    #
+#                                   #
+#                                   #
+#####################################
+
 # Basit hesapmakinesi eval() fonksiyonunun çalışması
 print("-"*30)
 print("""
