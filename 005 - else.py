@@ -5,7 +5,7 @@
 #      Eyüp Can KILINÇDEMİR         #
 #    eyupcankilincdemir@gmail.com   #
 #    	ceksoft.wordpress.com       #
-#     							    #
+#                                   #
 #                                   #
 #                                   #
 #####################################
