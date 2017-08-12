@@ -5,8 +5,8 @@
 #      Eyüp Can KILINÇDEMİR         #
 #    eyupcankilincdemir@gmail.com   #
 #    	ceksoft.wordpress.com       #
-#   Girilen karakterin dosyadaki    #
-#              sayısı               #
+#         karakter metodları        #
+#                                   #
 #                                   #
 #####################################
 
